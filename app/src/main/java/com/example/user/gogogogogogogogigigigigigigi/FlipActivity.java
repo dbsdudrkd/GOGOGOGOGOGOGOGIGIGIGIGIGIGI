@@ -75,6 +75,7 @@ public class FlipActivity extends Activity {
                 viewFlipper1.stopFlipping();
             }
         });
+        //
     }
 
 
